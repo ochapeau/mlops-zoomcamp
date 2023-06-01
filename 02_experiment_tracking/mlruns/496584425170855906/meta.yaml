@@ -1,0 +1,6 @@
+artifact_location: file:///Users/olivier/Documents/courses/mlops-zoomcamp/02_experiment_tracking/mlruns/496584425170855906
+creation_time: 1685632450365
+experiment_id: '496584425170855906'
+last_update_time: 1685632450365
+lifecycle_stage: active
+name: nyc-taxi-experiment-autolog
