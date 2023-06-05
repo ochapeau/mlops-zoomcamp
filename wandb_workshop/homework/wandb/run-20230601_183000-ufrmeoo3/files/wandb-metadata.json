@@ -1,0 +1,51 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.10.10",
+    "heartbeatAt": "2023-06-01T16:30:01.110240",
+    "startedAt": "2023-06-01T16:30:00.575342",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-workshop",
+        "--wandb_entity",
+        "ochapeau",
+        "--raw_data_path",
+        "/Users/olivier/Documents/courses/mlops-zoomcamp/wandb_workshop/data",
+        "--dest_path",
+        "/Users/olivier/Documents/courses/mlops-zoomcamp/wandb_workshop/output"
+    ],
+    "state": "running",
+    "program": "/Users/olivier/Documents/courses/mlops-zoomcamp/wandb_workshop/homework/preprocess_data.py",
+    "codePath": "wandb_workshop/homework/preprocess_data.py",
+    "git": {
+        "remote": "https://github.com/ochapeau/mlops-zoomcamp.git",
+        "commit": "4badaa6073ae0d845316d80b982eb551badb3a96"
+    },
+    "email": "ochapeau@protonmail.com",
+    "root": "/Users/olivier/Documents/courses/mlops-zoomcamp",
+    "host": "Oliviers-MacBook-Pro.local",
+    "username": "olivier",
+    "executable": "/Users/olivier/Documents/courses/mlops-zoomcamp/wandb_workshop/venv/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2200,
+        "min": 2200,
+        "max": 2200
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200,
+            "min": 2200,
+            "max": 2200
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.439949035644531
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
